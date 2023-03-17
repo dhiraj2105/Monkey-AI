@@ -1,0 +1,10 @@
+SpeechRecognition
+pyttsx3
+wikipedia
+ecapture
+requests
+PyAudio
+pywhatkit
+pyjokes
+pyautogui
+
