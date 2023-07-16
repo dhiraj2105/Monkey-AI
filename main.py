@@ -141,7 +141,7 @@ if __name__ == '__main__':
             speak("good to know sir")
 
         elif 'who are you' in query:
-            speak('I am monkey version 1 point 0 your personal assistant  I am programmed to do minor tasks like opening youtube,google,predict time,search wikipedia')
+            speak('I am monkey version 1 point 1 your personal assistant  I am programmed to do minor tasks like opening youtube,google,predict time,search wikipedia')
 
         elif 'shutdown system now' in query or 'shutdown now' in query:
             speak("Hold On a Sec ! Your system is on its way to shut down")
